@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shoping</string>
+    <string name="label">Udinic</string>
+    <string name="action_settings">Settings</string>
+    <string name="signup_title">Create new account</string>
+    <string name="login_label">Log in</string>
+    <string name="facebook_app_id">288818896114875</string>
+    <string name="fb_login_protocol_scheme">fb288818896114875</string>
+
+</resources>
