@@ -78,5 +78,6 @@ And then execute the payment process, add delivery details and billing address, 
 ![1](https://user-images.githubusercontent.com/49205538/194057755-181f37b6-3738-417f-9047-26420b2ecc11.png)
 
 
-![2](https://user-images.githubusercontent.com/49205538/194057766-df5267bb-735f-485f-8b12-56f302894238.png)
+![2](https://user-images.githubusercontent.com/49205538/194159027-8f35589f-35b1-4f25-8820-1b1e2878c499.png)
+
 
